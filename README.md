@@ -11,7 +11,7 @@ You can build a Fish shell environment by runnning this.
 You need curl and Git.
 
 ```bash
-$ /bin/bash -c "$(curl -fsSL https://github.com/lafixier/fish-env-build-script/raw/main/build.sh)"
+/bin/bash -c "$(curl -fsSL https://github.com/lafixier/fish-env-build-script/raw/main/build.sh)"
 ```
 
 ## License
